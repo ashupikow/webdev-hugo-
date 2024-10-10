@@ -11,10 +11,13 @@
     <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2024-10-09T17:24:52+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/kun/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/aaaaaaa/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kun/</loc>
+    <loc>http://localhost:1313/posts/device/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
